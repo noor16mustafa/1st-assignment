@@ -128,7 +128,13 @@ input {
     background-color: rgb(250, 215, 169);
 }
 
-/**/
+/* video section*/
+.video-div {
+
+    margin: 20px 300px;
+}
+
+/*form section start*/
 .our-update {
     background-color: rgb(245, 224, 198);
     margin-top: 20px;
@@ -170,4 +176,27 @@ input {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 
+}
+
+
+
+.footer-part {
+    width: 100%;
+    margin-top: 100px;
+    background-color: black;
+    text-align: center;
+}
+
+.footer-part h1 {
+    font-family: 'Dancing Script', cursive;
+    color: red;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.footer-part p {
+    color: white;
+    padding-bottom: 30px;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
 }
