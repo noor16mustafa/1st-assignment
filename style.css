@@ -1,0 +1,45 @@
+.top-banner {
+    background-image: url("images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 669px;
+    opacity: 0.6;
+
+}
+
+.content-in-banner {
+    height: 320px;
+    width: 826px;
+    padding: 150px 200px;
+}
+
+.content-in-banner h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.content-in-banner p {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/* donate today section */
+.donate-today {
+    margin: 100px 200px;
+    text-align: center;
+}
+
+.donate_btn {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-left: 330px;
+}
